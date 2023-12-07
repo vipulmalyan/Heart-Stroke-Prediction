@@ -82,7 +82,7 @@ st.markdown(footer_html, unsafe_allow_html=True)
 page_bg_img = '''
 <style>
 [data-testid="stAppViewContainer"] {
-background-image: url("https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0zNzNiYXRjaDE1LWJnLTExLmpwZw.jpg");
+background-image: url("https://raw.githubusercontent.com/vipulmalyan/Heart-Stroke-Prediction/main/image-from-rawpixel-id-10235756-jpeg.jpg");
 background-size: cover;
 }
 </style>
